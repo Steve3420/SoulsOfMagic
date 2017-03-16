@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 0362e2a38e80630418ebd5ce3df97233
+timeCreated: 1473013377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box032
+    100002: Box033
+    100004: Box034
+    100006: Dummy005
+    100008: Dummy006
+    100010: Dummy007
+    100012: Dummy008
+    100014: Dummy009
+    100016: Dummy010
+    100018: Dummy011
+    100020: Dummy012
+    100022: Rock063
+    100024: Rock064
+    100026: Rock065
+    100028: Rock066
+    100030: Rock067
+    100032: //RootNode
+    400000: Box032
+    400002: Box033
+    400004: Box034
+    400006: Dummy005
+    400008: Dummy006
+    400010: Dummy007
+    400012: Dummy008
+    400014: Dummy009
+    400016: Dummy010
+    400018: Dummy011
+    400020: Dummy012
+    400022: Rock063
+    400024: Rock064
+    400026: Rock065
+    400028: Rock066
+    400030: Rock067
+    400032: //RootNode
+    2300000: Box032
+    2300002: Box033
+    2300004: Box034
+    2300006: Rock063
+    2300008: Rock064
+    2300010: Rock065
+    2300012: Rock066
+    2300014: Rock067
+    3300000: Box032
+    3300002: Box033
+    3300004: Box034
+    3300006: Rock063
+    3300008: Rock064
+    3300010: Rock065
+    3300012: Rock066
+    3300014: Rock067
+    4300000: Box033
+    4300002: Rock064
+    4300004: Rock067
+    4300006: Rock063
+    4300008: Box034
+    4300010: Box032
+    4300012: Rock065
+    4300014: Rock066
+    7400000: Assemble
+    7400002: Idle
+    7400004: Disasseble
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Assemble
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy005
+        weight: 1
+      - path: Dummy005/Box033
+        weight: 1
+      - path: Dummy006
+        weight: 1
+      - path: Dummy006/Rock064
+        weight: 1
+      - path: Dummy007
+        weight: 1
+      - path: Dummy007/Rock067
+        weight: 1
+      - path: Dummy008
+        weight: 1
+      - path: Dummy008/Rock063
+        weight: 1
+      - path: Dummy009
+        weight: 1
+      - path: Dummy009/Box034
+        weight: 1
+      - path: Dummy010
+        weight: 1
+      - path: Dummy010/Box032
+        weight: 1
+      - path: Dummy011
+        weight: 1
+      - path: Dummy011/Rock065
+        weight: 1
+      - path: Dummy012
+        weight: 1
+      - path: Dummy012/Rock066
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 24
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy005
+        weight: 1
+      - path: Dummy005/Box033
+        weight: 1
+      - path: Dummy006
+        weight: 1
+      - path: Dummy006/Rock064
+        weight: 1
+      - path: Dummy007
+        weight: 1
+      - path: Dummy007/Rock067
+        weight: 1
+      - path: Dummy008
+        weight: 1
+      - path: Dummy008/Rock063
+        weight: 1
+      - path: Dummy009
+        weight: 1
+      - path: Dummy009/Box034
+        weight: 1
+      - path: Dummy010
+        weight: 1
+      - path: Dummy010/Box032
+        weight: 1
+      - path: Dummy011
+        weight: 1
+      - path: Dummy011/Rock065
+        weight: 1
+      - path: Dummy012
+        weight: 1
+      - path: Dummy012/Rock066
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Disasseble
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: DisableSheild
+        data: 
+        objectReferenceParameter: {fileID: 113670, guid: 8e7342354e8a6814e898538c9aa9eee0,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy005
+        weight: 1
+      - path: Dummy005/Box033
+        weight: 1
+      - path: Dummy006
+        weight: 1
+      - path: Dummy006/Rock064
+        weight: 1
+      - path: Dummy007
+        weight: 1
+      - path: Dummy007/Rock067
+        weight: 1
+      - path: Dummy008
+        weight: 1
+      - path: Dummy008/Rock063
+        weight: 1
+      - path: Dummy009
+        weight: 1
+      - path: Dummy009/Box034
+        weight: 1
+      - path: Dummy010
+        weight: 1
+      - path: Dummy010/Box032
+        weight: 1
+      - path: Dummy011
+        weight: 1
+      - path: Dummy011/Rock065
+        weight: 1
+      - path: Dummy012
+        weight: 1
+      - path: Dummy012/Rock066
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
